@@ -16,7 +16,7 @@ body {
     --white-color: #FFFFFF;
     background-color: var(--background-color);
     font-family: "Nunito";
-    padding: 1px;
+    padding: 100px;
     position: relative;
 }
 
@@ -586,3 +586,4 @@ body {
     left: 0;
 
 }
+
