@@ -15,7 +15,7 @@ body {
     --gray-color: #B1B1B1;
     --white-color: #FFFFFF;
     background-color: var(--background-color);
-    font-family: "Nunito";
+    font-family: "Nunito", sans-serif;
     padding: 1px;
     position: relative;
 }
@@ -586,5 +586,6 @@ body {
     left: 0;
 
 }
+
 
 
