@@ -134,15 +134,15 @@ body {
 }
 
 .list-products__burgers-label::before {
-    background-image: url("/mini-img/Бургеры.png");
+    background-image: url("mini-img/Бургеры.png");
 }
 
 .list-products__snacks-label::before {
-    background-image: url("/mini-img/Закуски.png");
+    background-image: url("mini-img/Закуски.png");
 }
 
 .list-products__hotdogs-label::before {
-    background-image: url("/mini-img/Хот-доги.png");
+    background-image: url("mini-img/Хот-доги.png");
 }
 
 .elections-window {
@@ -321,7 +321,7 @@ body {
     transform: translateY(-50%);
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url("/mini-img/Cкутер.png");
+    background-image: url("mini-img/Cкутер.png");
 }
 
 /* ______________________________________________ */
@@ -488,7 +488,7 @@ body {
     width: 24px;
     height: 24px;
     border: none;
-    background-image: url(/mini-img/krest.png);
+    background-image: url(mini-img/krest.png);
     background-color: #F9F9F9;
     background-repeat: no-repeat;
     background-position: center;
@@ -497,7 +497,7 @@ body {
 }
 
 .main__close-btn:hover {
-    background-image: url(/mini-img/krest-hover.png);
+    background-image: url(mini-img/krest-hover.png);
 }
 
 .main__title {
@@ -586,3 +586,4 @@ body {
     left: 0;
 
 }
+
