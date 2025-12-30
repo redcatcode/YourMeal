@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Nunito";
-    src: url(/font/Nunito-VariableFont_wght.woff2);
+    src: url(font/Nunito-VariableFont_wght.woff2);
     font-style: normal;
     font-weight: normal;
 }
@@ -584,4 +584,5 @@ body {
     position: absolute;
     top: 0;
     left: 0;
+
 }
