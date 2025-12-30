@@ -321,7 +321,7 @@ body {
     transform: translateY(-50%);
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url("mini-img/Scooter.png");
+    background-image: url("../mini-img/Scooter.png");
 }
 
 /* ______________________________________________ */
@@ -586,6 +586,7 @@ body {
     left: 0;
 
 }
+
 
 
 
