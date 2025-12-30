@@ -134,7 +134,7 @@ body {
 }
 
 .list-products__burgers-label::before {
-    background-image: url("../mini-img/Бургеры.png");
+    background-image: url("../mini-img/Burgers.png");
 }
 
 .list-products__snacks-label::before {
@@ -586,6 +586,7 @@ body {
     left: 0;
 
 }
+
 
 
 
