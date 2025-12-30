@@ -134,15 +134,15 @@ body {
 }
 
 .list-products__burgers-label::before {
-    background-image: url("./mini-img/Бургеры.png");
+    background-image: url("../mini-img/Бургеры.png");
 }
 
 .list-products__snacks-label::before {
-    background-image: url("./mini-img/Закуски.png");
+    background-image: url("../mini-img/Закуски.png");
 }
 
 .list-products__hotdogs-label::before {
-    background-image: url("./mini-img/Хот-доги.png");
+    background-image: url("../mini-img/Хот-доги.png");
 }
 
 .elections-window {
@@ -586,6 +586,7 @@ body {
     left: 0;
 
 }
+
 
 
 
